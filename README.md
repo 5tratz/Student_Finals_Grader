@@ -6,4 +6,13 @@ A professional grading application for educators.
 
 <b>Features</b>:
 
-COMING SOON
+- Manual and Automatic grading modes.
+- Light and Dark themes.
+- Adjustable UI sizes.
+- Show/Hide grade letters.
+- Storage management.
+- Export to CSV, TXT, DOCX, PDF.
+- Generate class reports and grade distributions.
+- Import students from CSV.
+- Auto-incrementing student numbers.
+- Student list with grid view.
